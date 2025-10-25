@@ -47,6 +47,31 @@ It allows designers and developers to generate harmonious color schemes, copy HE
 
 ---
 
+## Base project structure
+
+```
+chromaflow/
+ ├─ src/
+ │   ├─ app/
+ │   │   └─ layout.tsx
+ │   │   └─ page.tsx
+ │   ├─ components/
+ │   │   └─ Container.tsx
+ │   │   └─ Navbar.tsx
+ │   │   └─ Footer.tsx
+ │   │   └─ Header.tsx
+ │   │   └─ ColorCard.tsx
+ │   │   └─ PaletteGenerator.tsx
+ │   └─ styles/
+ │       └─ globals.css
+ ├─ public/
+ ├─ package.json
+ ├─ tailwind.config.js
+ ├─ README.md
+ └─ ...
+```
+
+
 ## Installation
 
 ```bash
@@ -63,21 +88,7 @@ npm install
 npm run dev
 
 ```
-Then open http://localhost:3000 in your browser.
 
-## Project structure
+- Then open http://localhost:3000 in your browser.
 
-```
-chromaflow/
- ├─ src/
- │   ├─ app/
- │   │   └─ page.tsx
- │   ├─ components/
- │   │   └─ ColorCard.tsx
- │   └─ styles/
- │       └─ globals.css
- ├─ public/
- ├─ package.json
- ├─ tailwind.config.js
- └─ README.md
-```
+
