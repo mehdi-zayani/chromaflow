@@ -59,6 +59,9 @@ chromaflow/
  │   │   └─ Container.tsx
  │   │   └─ Navbar.tsx
  │   │   └─ Footer.tsx
+ │   │   └─ Header.tsx
+ │   │   └─ ColorCard.tsx
+ │   │   └─ PaletteGenerator.tsx
  │   └─ styles/
  │       └─ globals.css
  ├─ public/
