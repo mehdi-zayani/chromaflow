@@ -29,7 +29,7 @@
 **Chromaflow** is a modern, minimalistic color palette generator built with Next.js, TypeScript, and Tailwind CSS.  
 It allows designers and developers to generate harmonious color schemes, copy HEX codes, and experiment with palettes in a clean and animated interface.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://chromaflow-git-main-mzlab-projects.vercel.app?_vercel_share=96VGTNr8Cbb1Zhg0oAsz2ucqSsWLVgSR)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://chromaflow-hazel.vercel.app/)
 
 
 
